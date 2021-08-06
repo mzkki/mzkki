@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzkki
 - 👀 I’m interested in Android Developer
-- 🌱 I’m currently learning Web Developer
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Shopee Contributor
 - 📫 How to reach me 08harismu@gmail.com
 
