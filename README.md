@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mzkki
+- 👋 Hi, I’m @mzkki, also follow me on instagram @harismzkki
 - 👀 I’m interested in Android Developer
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Shopee Contributor
+- 🌱 I’m currently learning Back End Web Developer
+- 💞️ I’m looking to collaborate on Start Up
 - 📫 How to reach me 08harismu@gmail.com
 
 <!---
