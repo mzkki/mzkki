@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Startup**
 
-- 👨‍💻 All of my projects are available at [mzkki.github.io](mzkki.github.io)
+- 👨‍💻 All of my projects are available at [mzkki.github.io](https://mzkki.github.io)
 
 - 📫 How to reach me **08harismu@gmail.com**
 
