@@ -11,9 +11,7 @@
 <br>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzkki" alt="mzkki" /></a> </p> -->
 
-- 🌱 I’m currently learning **NodeJS**
-
-- 👯 I’m looking to collaborate on **Startup**
+- 🌱 I’m currently learning to always be better
 
 - 👨‍💻 All of my projects are available at [mzkki.github.io](https://mzkki.github.io)
 
