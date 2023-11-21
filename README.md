@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [mzkki.github.io](https://mzkki.github.io)
 
-- 📫 How to reach me **08harismu@gmail.com**
+- 📫 How to reach me [**08harismu@gmail.com**](mailto:08harismu@gmail.com)
 
 - ⚡ Fun fact **I think i am kinda weird**
 
