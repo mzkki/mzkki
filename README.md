@@ -8,6 +8,7 @@
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzkki&label=Profile%20views&color=0e75b6&style=flat" alt="mzkki" /> </p>
+<p align="left"> <img src="https://wakatime.com/badge/user/f0854b27-130e-4a1a-92d8-a8720ecd2ff0.svg" alt="wakatime" /> </p>
 <br>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzkki" alt="mzkki" /></a> </p> -->
 
