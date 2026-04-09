@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning to always be better
 
-- 👨‍💻 All of my projects are available at [mzkki.github.io](https://mzkki.github.io)
+- 👨‍💻 All of my projects are available at my private repositories
 
 - 📫 How to reach me [**08harismu@gmail.com**](mailto:08harismu@gmail.com)
 
